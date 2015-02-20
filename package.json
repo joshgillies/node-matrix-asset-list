@@ -1,0 +1,27 @@
+{
+  "name": "node-matrix-assets",
+  "version": "1.0.0",
+  "description": "Requireable object list of Squiz Matrix core assets",
+  "main": "assets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshgillies/node-matrix-assets.git"
+  },
+  "keywords": [
+    "mysource",
+    "my",
+    "source",
+    "squiz",
+    "matrix",
+    "assets"
+  ],
+  "author": "Josh Gillies <npm@joshgilli.es> (http://joshgilli.es/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgillies/node-matrix-assets/issues"
+  },
+  "homepage": "https://github.com/joshgillies/node-matrix-assets"
+}

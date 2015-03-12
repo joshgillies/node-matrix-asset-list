@@ -15,7 +15,7 @@ var assets = require('node-matrix-assets');
 `node-matrix-assets` provides a simple querying interface wich allows you to retrieve
 asset info with the following:
 
-``js
+```js
 console.log(assets('page_standard').name); // asset type code
 console.log(assets('Standard Page').name); // capital case name
 console.log(assets('standard page').name); // lower case name

@@ -4,7 +4,7 @@
   "description": "A requireable object list of Squiz Matrix core assets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/joshgillies/node-matrix-assets/issues"
   },
-  "homepage": "https://github.com/joshgillies/node-matrix-assets"
+  "homepage": "https://github.com/joshgillies/node-matrix-assets",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
 }

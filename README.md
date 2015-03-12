@@ -4,6 +4,8 @@ A requireable object list of Squiz Matrix' core assets.
 
 Extracted using the [JS API getAssetTypes] function.
 
+[![Build Status](https://travis-ci.org/joshgillies/node-matrix-assets.svg)](https://travis-ci.org/joshgillies/node-matrix-assets)
+
 # Usage
 
 ```js

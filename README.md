@@ -1,18 +1,18 @@
-# node-matrix-assets
+# node-matrix-asset-list
 
 A requireable object list of Squiz Matrix' core assets.
 
 Extracted using the [JS API getAssetTypes] function.
 
-[![Build Status](https://travis-ci.org/joshgillies/node-matrix-assets.svg)](https://travis-ci.org/joshgillies/node-matrix-assets)
+[![Build Status](https://travis-ci.org/joshgillies/node-matrix-asset-list.svg)](https://travis-ci.org/joshgillies/node-matrix-asset-list)
 
 # Usage
 
 ```js
-var assets = require('node-matrix-assets');
+var assets = require('node-matrix-asset-list');
 ```
 
-`node-matrix-assets` provides a simple querying interface wich allows you to retrieve
+`node-matrix-asset-list` provides a simple querying interface wich allows you to retrieve
 asset info with the following:
 
 ```js
@@ -26,7 +26,7 @@ console.log(assets('standard page').name); // lower case name
 In addition you can require directly the entire assets object with:
 
 ```js
-var assets = require('node-matrix-assets/assets');
+var assets = require('node-matrix-asset-list/assets');
 ```
 
 with which you can select assets via their type code:

@@ -1,6 +1,6 @@
 {
-  "name": "node-matrix-assets",
-  "version": "2.0.0",
+  "name": "node-matrix-asset-list",
+  "version": "0.0.0",
   "description": "A requireable object list of Squiz Matrix' core assets",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshgillies/node-matrix-assets.git"
+    "url": "git+https://github.com/joshgillies/node-matrix-asset-list.git"
   },
   "keywords": [
     "mysource",
@@ -21,9 +21,9 @@
   "author": "Josh Gillies <npm@joshgilli.es> (http://joshgilli.es/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshgillies/node-matrix-assets/issues"
+    "url": "https://github.com/joshgillies/node-matrix-asset-list/issues"
   },
-  "homepage": "https://github.com/joshgillies/node-matrix-assets",
+  "homepage": "https://github.com/joshgillies/node-matrix-asset-list",
   "devDependencies": {
     "tape": "^3.5.0"
   }

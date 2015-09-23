@@ -1,6 +1,6 @@
 {
   "name": "node-matrix-asset-list",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A requireable object list of Squiz Matrix' core assets",
   "main": "index.js",
   "scripts": {

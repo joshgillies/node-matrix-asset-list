@@ -5,6 +5,7 @@ A requireable object list of Squiz Matrix' core assets.
 Extracted using the [JS API getAssetTypes] function.
 
 [![Build Status](https://travis-ci.org/joshgillies/node-matrix-asset-list.svg)](https://travis-ci.org/joshgillies/node-matrix-asset-list)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # Usage
 

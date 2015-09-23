@@ -1739,4 +1739,4 @@ module.exports = {
     description: 'Specialised type of File asset for XSL Files (eg. .xsl)',
     lvl: '2'
   }
-};
+}
